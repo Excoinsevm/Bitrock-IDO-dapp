@@ -81,8 +81,8 @@ const Footer = () => {
             </div>
             <div className="flex flex-row my-20">
               <div className="w-full flex flex-col">
-                <div className="text-white mb-10">@ Copyright IgniteDefi 2022.</div>
-                <div className="text-white"> proudly Made for IgniteDefi.</div>
+                <div className="text-white mb-10">@ Copyright 0xTrigon 2024.</div>
+                <div className="text-white"> proudly Made by 0xTrigon.</div>
               </div>
               <div className="w-full flex flex-col pl-40">
                 <div className="text-white underline mb-5">Privacy Policy</div>
